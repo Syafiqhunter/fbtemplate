@@ -1,4 +1,125 @@
 {
-  "version": 1,
-  "countries": {}
+  "country": "US",
+  "cities": [
+    {
+      "id": "109434842408576",
+      "name": "Birmingham, Alabama",
+      "verified": true
+    },
+    {
+      "id": "106199619411091",
+      "name": "Anchorage, Alaska",
+      "verified": true
+    },
+    {
+      "id": "108296539194138",
+      "name": "Arizona",
+      "verified": true
+    },
+    {
+      "id": "111689148842696",
+      "name": "Arkansas",
+      "verified": true
+    },
+    {
+      "id": "108131585873862",
+      "name": "California",
+      "verified": true
+    },
+    {
+      "id": "106270412737566",
+      "name": "Colorado Springs, Colorado",
+      "verified": true
+    },
+    {
+      "id": "109714185714936",
+      "name": "Florida",
+      "verified": true
+    },
+    {
+      "id": "103994709636969",
+      "name": "Georgia",
+      "verified": true
+    },
+    {
+      "id": "113667228643818",
+      "name": "Hawaii",
+      "verified": true
+    },
+    {
+      "id": "111957282154793",
+      "name": "Indiana",
+      "verified": true
+    },
+    {
+      "id": "103764742995575",
+      "name": "Kansas City, Kansas",
+      "verified": true
+    },
+    {
+      "id": "104006346303593",
+      "name": "Louisville, Kentucky",
+      "verified": true
+    },
+    {
+      "id": "103103679730619",
+      "name": "Jackson, Mississippi",
+      "verified": true
+    },
+    {
+      "id": "113132652033783",
+      "name": "Omaha, Nebraska",
+      "verified": true
+    },
+    {
+      "id": "107894812567127",
+      "name": "Paradise, Nevada",
+      "verified": true
+    },
+    {
+      "id": "108325505857259",
+      "name": "New Jersey",
+      "verified": true
+    },
+    {
+      "id": "108301835856691",
+      "name": "New Mexico",
+      "verified": true
+    },
+    {
+      "id": "108424279189115",
+      "name": "New York, New York",
+      "verified": true
+    },
+    {
+      "id": "104024609634842",
+      "name": "Ohio",
+      "verified": true
+    },
+    {
+      "id": "105818976117390",
+      "name": "Oklahoma",
+      "verified": true
+    },
+    {
+      "id": "105528489480786",
+      "name": "Pennsylvania",
+      "verified": true
+    },
+    {
+      "id": "108337852519784",
+      "name": "Texas",
+      "verified": true
+    },
+    {
+      "id": "109564639069465",
+      "name": "Virginia",
+      "verified": true
+    },
+    {
+      "id": "110453875642908",
+      "name": "Washington",
+      "verified": true
+    }
+  ]
 }

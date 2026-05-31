@@ -1,0 +1,21 @@
+{
+  "country": "US",
+  "cities": [
+    { "id": "108424279189115", "name": "New York, NY" },
+    { "id": "101881036520836", "name": "Philadelphia, PA" },
+    { "id": "110970792260960", "name": "Los Angeles, CA" },
+    { "id": "108659242498155", "name": "Chicago, IL" },
+    { "id": "115963528414384", "name": "Houston, TX" },
+    { "id": "105540216147364", "name": "Phoenix, AZ" },
+    { "id": "114952118516947", "name": "San Francisco, CA" },
+    { "id": "111762725508574", "name": "Dallas, TX" },
+    { "id": "110148382341970", "name": "Miami, FL" },
+    { "id": "107991659233606", "name": "Atlanta, GA" },
+    { "id": "110843418940484", "name": "Seattle, WA" },
+    { "id": "106003956105810", "name": "Boston, MA" },
+    { "id": "115590505119035", "name": "Denver, CO" },
+    { "id": "108081209214649", "name": "Las Vegas, NV" },
+    { "id": "106224666074625", "name": "Austin, TX" },
+    { "id": "110714572282163", "name": "San Diego, CA" }
+  ]
+}

@@ -1,3 +1,13 @@
 {
-  "used": []
+  "used": [
+    {
+      "url": "https://landing.example.com/link-004",
+      "country": "US",
+      "claimedAt": "2026-05-31T13:53:52.275Z",
+      "usedAt": "2026-05-31T13:54:00.095Z",
+      "fbUser": "61589463225882",
+      "browserId": "0bc96cef-d7f7-4292-a622-67236f19c9a6",
+      "success": true
+    }
+  ]
 }

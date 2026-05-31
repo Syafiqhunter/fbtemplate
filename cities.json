@@ -1,125 +1,43 @@
 {
-  "country": "US",
-  "cities": [
-    {
-      "id": "109434842408576",
-      "name": "Birmingham, Alabama",
-      "verified": true
-    },
-    {
-      "id": "106199619411091",
-      "name": "Anchorage, Alaska",
-      "verified": true
-    },
-    {
-      "id": "108296539194138",
-      "name": "Arizona",
-      "verified": true
-    },
-    {
-      "id": "111689148842696",
-      "name": "Arkansas",
-      "verified": true
-    },
-    {
-      "id": "108131585873862",
-      "name": "California",
-      "verified": true
-    },
-    {
-      "id": "106270412737566",
-      "name": "Colorado Springs, Colorado",
-      "verified": true
-    },
-    {
-      "id": "109714185714936",
-      "name": "Florida",
-      "verified": true
-    },
-    {
-      "id": "103994709636969",
-      "name": "Georgia",
-      "verified": true
-    },
-    {
-      "id": "113667228643818",
-      "name": "Hawaii",
-      "verified": true
-    },
-    {
-      "id": "111957282154793",
-      "name": "Indiana",
-      "verified": true
-    },
-    {
-      "id": "103764742995575",
-      "name": "Kansas City, Kansas",
-      "verified": true
-    },
-    {
-      "id": "104006346303593",
-      "name": "Louisville, Kentucky",
-      "verified": true
-    },
-    {
-      "id": "103103679730619",
-      "name": "Jackson, Mississippi",
-      "verified": true
-    },
-    {
-      "id": "113132652033783",
-      "name": "Omaha, Nebraska",
-      "verified": true
-    },
-    {
-      "id": "107894812567127",
-      "name": "Paradise, Nevada",
-      "verified": true
-    },
-    {
-      "id": "108325505857259",
-      "name": "New Jersey",
-      "verified": true
-    },
-    {
-      "id": "108301835856691",
-      "name": "New Mexico",
-      "verified": true
-    },
-    {
-      "id": "108424279189115",
-      "name": "New York, New York",
-      "verified": true
-    },
-    {
-      "id": "104024609634842",
-      "name": "Ohio",
-      "verified": true
-    },
-    {
-      "id": "105818976117390",
-      "name": "Oklahoma",
-      "verified": true
-    },
-    {
-      "id": "105528489480786",
-      "name": "Pennsylvania",
-      "verified": true
-    },
-    {
-      "id": "108337852519784",
-      "name": "Texas",
-      "verified": true
-    },
-    {
-      "id": "109564639069465",
-      "name": "Virginia",
-      "verified": true
-    },
-    {
-      "id": "110453875642908",
-      "name": "Washington",
-      "verified": true
-    }
-  ]
+  "version": 1,
+  "countries": {
+    "US": [
+      { "id": "109434842408576", "name": "Birmingham, Alabama" },
+      { "id": "106199619411091", "name": "Anchorage, Alaska" },
+      { "id": "108296539194138", "name": "Arizona" },
+      { "id": "111689148842696", "name": "Arkansas" },
+      { "id": "108131585873862", "name": "California" },
+      { "id": "106270412737566", "name": "Colorado Springs, Colorado" },
+      { "id": "109714185714936", "name": "Florida" },
+      { "id": "103994709636969", "name": "Georgia" },
+      { "id": "113667228643818", "name": "Hawaii" },
+      { "id": "111957282154793", "name": "Indiana" },
+      { "id": "103764742995575", "name": "Kansas City, Kansas" },
+      { "id": "104006346303593", "name": "Louisville, Kentucky" },
+      { "id": "103103679730619", "name": "Jackson, Mississippi" },
+      { "id": "113132652033783", "name": "Omaha, Nebraska" },
+      { "id": "107894812567127", "name": "Paradise, Nevada" },
+      { "id": "108325505857259", "name": "New Jersey" },
+      { "id": "108301835856691", "name": "New Mexico" },
+      { "id": "108424279189115", "name": "New York, New York" },
+      { "id": "104024609634842", "name": "Ohio" },
+      { "id": "105818976117390", "name": "Oklahoma" },
+      { "id": "105528489480786", "name": "Pennsylvania" },
+      { "id": "108337852519784", "name": "Texas" },
+      { "id": "109564639069465", "name": "Virginia" },
+      { "id": "110453875642908", "name": "Washington" }
+    ],
+    "DE": [
+      { "id": "111175118906315", "name": "Berlin, Berlin" },
+      { "id": "114829128532877", "name": "Hamburg, Hamburg" },
+      { "id": "116045151742857", "name": "Munich, Bayern" },
+      { "id": "115735848437200", "name": "Cologne, North Rhine-Westphalia" },
+      { "id": "110221372332205", "name": "Frankfurt, Hessen" },
+      { "id": "112089218817486", "name": "Stuttgart, Baden-Württemberg" },
+      { "id": "111271915564523", "name": "Düsseldorf, North Rhine-Westphalia" },
+      { "id": "105758929457093", "name": "Dortmund, North Rhine-Westphalia" },
+      { "id": "110313098992271", "name": "Leipzig, Saxony" },
+      { "id": "113618122021316", "name": "Schleswig-Holstein" }
+    ]
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "countries": {
     "US": [
       { "id": "108424279189115", "name": "New York, NY" },
@@ -45,8 +45,8 @@
       { "id": "111956555495574", "name": "Marseille, France" }
     ],
     "AU": [
-      { "id": "112260655462521", "name": "Sydney, Australia" },
-      { "id": "105433602824683", "name": "Melbourne, Australia" }
+      { "id": "110884905606108", "name": "Sydney, NSW, Australia" },
+      { "id": "116190411724975", "name": "Melbourne, VIC, Australia" }
     ],
     "CA": [{ "id": "110941395597405", "name": "Toronto, ON" }],
     "SG": [{ "id": "112467265444747", "name": "Singapore" }],

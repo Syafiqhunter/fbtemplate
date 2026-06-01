@@ -1,0 +1,33 @@
+{
+  "template": {
+    "__aaid": "0",
+    "__a": "1",
+    "__req": "p",
+    "__hs": "20605.HYP:comet_pkg.2.1...0",
+    "dpr": "1",
+    "__ccg": "EXCELLENT",
+    "__rev": "1040570780",
+    "__s": "2qyejj:aqffa4:804ei4",
+    "__hsi": "7646535744140016964",
+    "__dyn": "7xeUjGU5a5Q1ryaxG4Vp41twWwIxu13wFwhUngS3q2ibwNw9G2Sawba1DwUx60GE3Qwb-q7oc81EEc87m221Fwgo9oO0n24oaEnxO0Bo7O2l2Utwqo31wiE4u9x-3m1mzXw8W58jwGzEaE5e3ym2SU4i5oe8cEW4-5pUfEe88o4Wm7-2K0-obUG2-azqwt8eo5d0bS1LyUaUbGxe6Uak0zU8oC1hxB0qo4e4UO2m3Gfxm2yVU-4FqwIK6E5mEbU3cwgo1jUaUcEK6Eqwby0QUqwRyGw",
+    "__csr": "giiY5IpMx32FkzgR2thlRi4N5Z8BtimyvHRaBdEhSDr8LlRN2n4HRbuALKHnV5XaJDbP9t_nHQAV68XFqgiLBhaLh9u-8lx7y4vVbByXx2leECp7rCyRzV9oK5fyXAylKcjK6omGucBx92XWKhkVHAWy9EiAGUyu5Eyp1K4Fpeq8wDwFy9uEF2WCWABhqwYVU4O6E-68hAwWyVo4u2u2G4V8uwwxq5EaEK4ofUtAwauEhzAi2a15VpFFaUC4422Fk2K1zyE4y5Ey0O8a44Emwood8S1Twwxe3mcU663K2l0h82hw61wq83Kx61Ow5kwvo39waK0si3W0iK1KwWyo5x0Xg9FACm2i07yU0cN80czo015qU39xYM7F02060bHw8600xzd07V80j20qK6E4SoC0160w0xCw3hi0eW0yU09jC0IE1Oi120JF808wk64",
+    "__hsdp": "gkSyEM99FoGp5ejEOEa9kQxqcEyz4akgGh6DuCxPhcMIWcz921q58iH1oci49hF4Gd8lnmhWB8qSsF4hiF9dKt-xlKhogONc4QhYAdA1eqmyH4MOtcOglyoeqyXaBSGoECAjcG2UmCwmAPKqeyuoM86QNbjj2A9JiKFuQdqBDgxc9dGP3fNugakkzAIxFWDF1Hxi6E8oe8ixOm3sWK7kbzUW1ux2eykewIwUyGOwEyC1ogXa9xa1foG683ogJ3E4C19yU3KwVy942vwHwjoDw2P8vw9Liwi87CK7o7S5ye0jO0h-dCw2_U5SU2Cwfi9wai7E0Ru1Sw5cw33o0xa05Eo0S61Rw1c60Gouwyw1fS042Ebo1FocUrw3Vo2dAx209Jw7lw69w",
+    "__hblp": "0wDwnEaE3nw4xgR5wzg5e0E8Z0Ewyw8W3W0LElwoE2Exa1vK2K2K22E6G0Haw7AF3E4C19yU5S0A89Uhy98a8bo4S9U6i1bw7cwjk7U2xwi8421rw9K0jO0iSq0b_wnrwaq0Z8B1m0y-7K0xU2aweO0lm1MBw5cwb-cwr8ow8u0ja0tC3yU0z-0a-w9W2i681ho37w4lwto1Co0xK0gK0Gouwyw30E18E3nwOw2rE2IwbK2S0pi444o846E4-0elw8Si483tw6fwcK0F81tEtCwzAwFK2i2u13xm0KU",
+    "__sjsp": "gkSyEM99FoGp5ejIGEv8Bji5IGyacgFFqF5ipqq74AP2PEOcA85EkxaI5wN9-W5CiGD8mRmha8QapOAh5aAASbvEIBKhoib4MPkj4v93p0jCBJqNcczSA5o4qbBqnjzVbymEbU2iC82y1rwbO0NEswqo3Mw4ew3d80WK",
+    "__comet_req": "15",
+    "__spin_r": "1040570780",
+    "__spin_b": "trunk",
+    "__spin_t": "1780347839",
+    "__crn": "comet.fbweb.CometAllFriendsRoute",
+    "fb_api_caller_class": "RelayModern",
+    "fb_api_req_friendly_name": "FriendingCometUnfriendMutation",
+    "server_timestamps": "true",
+    "variables": "{\"input\":{\"source\":\"friending_jewel\",\"unfriended_user_id\":\"61590638000038\",\"actor_id\":\"61589870251877\",\"client_mutation_id\":\"1\"},\"scale\":1}",
+    "doc_id": "24028849793460009"
+  },
+  "originalVariables": "{\"input\":{\"source\":\"friending_jewel\",\"unfriended_user_id\":\"61590638000038\",\"actor_id\":\"61589870251877\",\"client_mutation_id\":\"1\"},\"scale\":1}",
+  "targetIdKey": "unfriended_user_id",
+  "friendlyName": "FriendingCometUnfriendMutation",
+  "capturedAt": 1780347847343,
+  "capturedFromUser": "61589870251877"
+}

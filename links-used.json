@@ -98,6 +98,15 @@
       "fbUser": "61589543775652",
       "browserId": "0c8ea966-8ea3-431e-9b83-b50b192d7c91",
       "success": true
+    },
+    {
+      "url": "https://landing.example.com/link-016",
+      "country": "US",
+      "claimedAt": "2026-06-01T15:38:52.281Z",
+      "usedAt": "2026-06-01T15:39:00.190Z",
+      "fbUser": "61589911617716",
+      "browserId": "dcfc3549-ce0a-4c9c-9318-ed06ea8af066",
+      "success": true
     }
   ]
 }

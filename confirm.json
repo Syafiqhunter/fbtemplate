@@ -1,0 +1,16 @@
+{
+  "template": {
+    "fb_api_caller_class": "RelayModern",
+    "fb_api_req_friendly_name": "FriendingCometFriendRequestConfirmMutation",
+    "server_timestamps": "true",
+    "doc_id": "27738371779080161",
+    "variables": "{\"input\":{\"click_correlation_id\":\"1780517710804\",\"click_proof_validation_result\":\"{\\\"validated\\\":true}\",\"friend_requester_id\":\"61590296306575\",\"friending_channel\":\"FRIENDS_HOME_REQUESTS\",\"warn_ack\":false,\"actor_id\":\"61589761626522\",\"client_mutation_id\":\"2\"},\"scale\":1,\"refresh_num\":0,\"should_fix_banner\":true}"
+  },
+  "originalVariables": "{\"input\":{\"click_correlation_id\":\"1780517710804\",\"click_proof_validation_result\":\"{\\\"validated\\\":true}\",\"friend_requester_id\":\"61590296306575\",\"friending_channel\":\"FRIENDS_HOME_REQUESTS\",\"warn_ack\":false,\"actor_id\":\"61589761626522\",\"client_mutation_id\":\"2\"},\"scale\":1,\"refresh_num\":0,\"should_fix_banner\":true}",
+  "friendlyName": "FriendingCometFriendRequestConfirmMutation",
+  "targetIdKey": "friend_requester_id",
+  "capturedAt": 1780517710808,
+  "minedFrom": "network",
+  "docValidated": true,
+  "validatedAt": 1780517710808
+}
